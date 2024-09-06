@@ -6,7 +6,7 @@ The Ergomech Sofle V2 Wireless uses a Nice!Nano microcontroller and runs the ZMK
 
 ## Default keymap
 The default keymap of this keyboard can be found here:
-![Default Keymap](./sofle.svg)
+![Default Keymap](./keymap-drawer/sofle.svg)
 
 ## Flashing the Sofle V2
 The ZMK cli tool would typically have you step through several questions to generate the necessary code to flash the firmware then upload it to a new repository on GitHub.
