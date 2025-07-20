@@ -13,11 +13,11 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: bluemicro840_v1
     shield: sofle_left
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-  - board: nice_nano_v2
+  - board: bluemicro840_v1
     shield: sofle_right
-  - board: nice_nano_v2
+  - board: bluemicro840_v1
     shield: settings_reset
